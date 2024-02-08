@@ -2,7 +2,7 @@
 //import './style.css';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
-import planetsData from '../planets.json' assert {type: 'json'};
+import planetsData from './planets.json' assert {type: 'json'};
 
 //create scene and camera
 //render scene
